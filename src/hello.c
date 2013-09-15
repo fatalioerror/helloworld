@@ -20,6 +20,14 @@
  */
 #include <stdio.h>
 
+/** 
+ * main
+ * 
+ * @param argc 
+ * @param argv 
+ * 
+ * @return 
+ */
 int main(int argc, char *argv[])
 {
   printf ("hello world!\n");
