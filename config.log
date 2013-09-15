@@ -141,6 +141,7 @@ on tux
 
 config.status:839: creating Makefile
 config.status:839: creating config.h
+config.status:1020: config.h is unchanged
 config.status:1068: executing depfiles commands
 
 ## ---------------- ##
