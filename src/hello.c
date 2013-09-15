@@ -20,9 +20,21 @@
  */
 #include <stdio.h>
 
+/** 
+ * main
+ * 
+ * @param argc 
+ * @param argv 
+ * 
+ * @return 
+ */
 int main(int argc, char *argv[])
 {
   printf ("hello world!\n");
   return 0;
 }
 
+<<<<<<< HEAD
+=======
+// end
+>>>>>>> 4d7d93fbd2265402d4bf38d5b16fb9c0c2379669
